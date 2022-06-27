@@ -6,7 +6,7 @@
  import LogoTitle from '../../assets/images/logo-s.png'
  import './index.scss';
 import React from 'react'
-import Logo from './Logo'
+//import Logo from './Logo'
 
 
 const Home = () => {
@@ -68,7 +68,7 @@ const Home = () => {
           <Link to="/contact" className="flat-button">
              CONTACT ME
            </Link>
-           <Logo />
+           {/* <Logo /> */}
           
          
         </div>
