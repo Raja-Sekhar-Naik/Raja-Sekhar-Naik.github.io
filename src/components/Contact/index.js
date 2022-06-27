@@ -95,7 +95,7 @@ const Contact = () => {
       <div className='contact-images'>
           <img className='image' src={image22} alt=''/>
           <img className='image' src={image21} alt=''/> 
-          <h2>Raja Sekhar Naik -UI Develeper at MNC company-7416412298</h2>
+          <h2>Raja Sekhar Naik -Frontend Developer at Infosys-7416412298</h2>
               
         </div>
       </div>
